@@ -29,7 +29,7 @@ github_username:  tolhassianipar
 
 # Build settings
 author: Tolhas Parulian Jonathan
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
