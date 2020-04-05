@@ -4,6 +4,5 @@
 
 layout: home
 --- 
-# os201
 Welcome to Operating Systems GITHUB x JEKYLL
 
