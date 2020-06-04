@@ -1,0 +1,26 @@
+Script started on Fri 05 Jun 2020 02:09:03 AM WIB
+]0;tolhas.parulian@badak: ~tolhas.parulian@badak:~$ PS1="$ "
+$ echo $GitHubUser
+tolhassianipar
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200605-020945-27ed-tolhas.parulian/> 
+$ PS1="\$(eval \$PSTAMP)"
+200605-021027-9e78-tolhas.parulian/> date
+Fri Jun  5 02:10:33 WIB 2020
+200605-021033-3864-tolhas.parulian/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/t/tolhas.parulian/.gnupg/pubring.gpg
+-------------------------------------------------------------
+pub   4096R/9D6D25B1 2020-02-17 [expires: 2021-02-16]
+uid       [ultimate] Tolhas Sianipar <jonathantolhas@gmail.com>
+sub   4096R/FF211CFB 2020-02-17 [expires: 2021-02-16]
+
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+200605-021051-90f8-tolhas.parulian/> exit
+exit
+
+Script done on Fri 05 Jun 2020 02:12:30 AM WIB
