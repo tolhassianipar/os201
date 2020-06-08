@@ -21,7 +21,7 @@
 title: OS201
 email: jonathantolhas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a website for my Operating Systems extra assignments. Here you can find my work to accomplish the assignments. I hope you interested.
+  This is a website for my Operating Systems assignments. Here you can find my work to accomplish the assignments. I hope you interested.
 baseurl: "/os201" # the subpath of your site, e.g. /blog
 url: "https://tolhassianipar.github.io/os201/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TolhasJonathan
@@ -29,7 +29,7 @@ github_username:  tolhassianipar
 
 # Build settings
 author: Tolhas Parulian Jonathan
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
