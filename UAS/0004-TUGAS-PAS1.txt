@@ -1,13 +1,13 @@
-Script started on 2020-06-09 02:32:52+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="142" LINES="36"]
-]0;tolhas@tolhas-Aspire-E5-476G: /media/tolhas/Fast Moving/Semester 4/OS/UAS/PAS1/Cek final/tolhassianipar/os201/UAS[01;32mtolhas@tolhas-Aspire-E5-476G[00m:[01;34m/media/tolhas/Fast Moving/Semester 4/OS/UAS/PAS1/Cek final/tolhassianipar/os201/UAS[00m$ PS1="$ "
+Script started on Tue Jun  9 03:15:47 2020
+]0;tolhas.parulian@badak: ~tolhas.parulian@badak:~$ PS1="$ "
 $ echo $GitHubUser
 tolhassianipar
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-200609-023326-44ec-UAS/> 
+$ eval $PSTAMP
+200609-031611-7483-tolhas.parulian/> 
 $ PS1="\$(eval \$PSTAMP)"
-200609-023330-4f01-UAS/> echo -e $CEKSAYA
+200609-031614-e65e-tolhas.parulian/> echo -e $CEKSAYA
 tolhassianipar ZCZCSCRIPTSTART 200605-020903 tolhassianipar 
 tolhassianipar tolhassianipar 200605-020945-27ed-tolhas.parulian/ 200605-020945 SEQOK SUMOK 27edff59 
 tolhassianipar tolhassianipar 200605-021027-9e78-tolhas.parulian/ 200605-021027 SEQOK SUMOK 9e78d28f 
@@ -15,7 +15,7 @@ tolhassianipar tolhassianipar 200605-021033-3864-tolhas.parulian/ 200605-021033 
 tolhassianipar tolhassianipar 200605-021051-90f8-tolhas.parulian/ 200605-021051 SEQOK SUMOK 90f863bd 
 tolhassianipar ZCZCSCRIPTSTOP 200605-021230 SEQOK 
 
-200609-023335-90e9-UAS/> echo -e $CEKSEBELA1
+200609-031618-c4a7-tolhas.parulian/> echo -e $CEKSEBELA1
 tolhassianipar ZCZCSCRIPTSTART 200531-042040 wahprima 
 tolhassianipar wahprima 200531-162142-7a1e-primaditaningtyas.w01/ 200531-162142 SEQOK SUMOK 7a1ef77e 
 tolhassianipar wahprima 200531-162152-1766-primaditaningtyas.w01/ 200531-162152 SEQOK SUMOK 1766d9ee 
@@ -23,7 +23,7 @@ tolhassianipar wahprima 200531-162204-8df6-primaditaningtyas.w01/ 200531-162204 
 tolhassianipar wahprima 200531-162224-f1e7-primaditaningtyas.w01/ 200531-162224 SEQOK SUMOK f1e7a5f6 
 tolhassianipar ZCZCSCRIPTSTOP 200531-042243 SEQOK 
 
-200609-023340-c246-UAS/> echo -e $CEKSEBELA2
+200609-031629-d746-tolhas.parulian/> echo -e $CEKSEBELA2
 tolhassianipar ZCZCSCRIPTSTART 200606-131411+0700 WillySand 
 tolhassianipar WillySand 200606-131438-d07d-d/ 200606-131438 SEQOK SUMOK d07d1a6e 
 tolhassianipar WillySand 200606-131444-f2b6-d/ 200606-131444 SEQOK SUMOK f2b604bd 
@@ -31,7 +31,7 @@ tolhassianipar WillySand 200606-131446-7019-d/ 200606-131446 SEQOK SUMOK 701954b
 tolhassianipar WillySand 200606-131457-7687-d/ 200606-131457 SEQOK SUMOK 76872778 
 tolhassianipar ZCZCSCRIPTSTOP 200606-131507+0700 SEQOK 
 
-200609-023343-8b99-UAS/> exit
+200609-031636-ec0c-tolhas.parulian/> exit
 exit
 
-Script done on 2020-06-09 02:33:46+07:00 [COMMAND_EXIT_CODE="0"]
+Script done on Tue Jun  9 03:16:52 2020
