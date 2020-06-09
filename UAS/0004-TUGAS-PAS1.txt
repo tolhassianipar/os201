@@ -16,20 +16,20 @@ tolhassianipar tolhassianipar 200605-021051-90f8-tolhas.parulian/ 200605-021051 
 tolhassianipar ZCZCSCRIPTSTOP 200605-021230 SEQOK 
 
 200609-031618-c4a7-tolhas.parulian/> echo -e $CEKSEBELA1
-tolhassianipar ZCZCSCRIPTSTART 200531-042040 wahprima 
+tolhassianipar ZCZCSCRIPTSTART 200531-162040 wahprima 
 tolhassianipar wahprima 200531-162142-7a1e-primaditaningtyas.w01/ 200531-162142 SEQOK SUMOK 7a1ef77e 
 tolhassianipar wahprima 200531-162152-1766-primaditaningtyas.w01/ 200531-162152 SEQOK SUMOK 1766d9ee 
 tolhassianipar wahprima 200531-162204-8df6-primaditaningtyas.w01/ 200531-162204 SEQOK SUMOK 8df6f07f 
 tolhassianipar wahprima 200531-162224-f1e7-primaditaningtyas.w01/ 200531-162224 SEQOK SUMOK f1e7a5f6 
-tolhassianipar ZCZCSCRIPTSTOP 200531-042243 SEQOK 
+tolhassianipar ZCZCSCRIPTSTOP 200531-162243 SEQOK 
 
 200609-031629-d746-tolhas.parulian/> echo -e $CEKSEBELA2
-tolhassianipar ZCZCSCRIPTSTART 200606-131411+0700 WillySand 
+tolhassianipar ZCZCSCRIPTSTART 200606-131411 WillySand 
 tolhassianipar WillySand 200606-131438-d07d-d/ 200606-131438 SEQOK SUMOK d07d1a6e 
 tolhassianipar WillySand 200606-131444-f2b6-d/ 200606-131444 SEQOK SUMOK f2b604bd 
 tolhassianipar WillySand 200606-131446-7019-d/ 200606-131446 SEQOK SUMOK 701954b4 
 tolhassianipar WillySand 200606-131457-7687-d/ 200606-131457 SEQOK SUMOK 76872778 
-tolhassianipar ZCZCSCRIPTSTOP 200606-131507+0700 SEQOK 
+tolhassianipar ZCZCSCRIPTSTOP 200606-131507 SEQOK 
 
 200609-031636-ec0c-tolhas.parulian/> exit
 exit
