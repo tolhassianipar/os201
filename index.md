@@ -13,17 +13,21 @@ layout: default
 <dd>Tolhas</dd>
 <dt>Thn. Lahir</dt>
 <dd>2000</dd>
+<dt>Email</dt>
+<dd>jonathantolhas@gmail.com</dd>
+<dt>LinkedIn</dt>
+<dd>@tolhas-jonathan</dd>
 </dl>
 
 
-# Siapa?
+# Perkenalan
 
-Nama saya Tolhas Parulian Jonathan, mahasiswa Fasilkom UI, belajar tentang **Operating System** di kelas C, dengan NPM 1806141473. 
+**Halo**, nama saya Tolhas Parulian Jonathan. Saya mahasiswa Fasilkom Universitas Indonesia, dengan NPM 1806141473. Dalam berkuliah saya belajar tentang OS (**Operating System**) di kelas C. Saya bersyukur bisa belajar bersama Dosen dan teman-teman yang baik. 
 
-# Apa?
+# WEB-PRIBADI
 
-Saya seorang manusia.
+Web ini merupakan sarana untuk pembuatan tugas di kelas OS. Selain itu, web ini juga dapat digunakan untuk melihat beberapa informasi mengenai link-link yang berguna seputar **Sistem Operasi**.
 
-# Mengapa?
+# Selayang Pandang Web GitHub OS201
 
-Pembuatan Web didasarkan pembelajaran mengenai OS.
+Alasan pembuatan web ini didasarkan pada pengerjaan tugas OS khususnya UAS. Selain itu, pembuatan web ini juga dapat dijadikan pembelajaran mengenai fungsionalitas dari GitHub.
